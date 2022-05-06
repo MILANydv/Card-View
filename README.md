@@ -1,16 +1,13 @@
 # flutter_learning2
 
-A new Flutter project.
+A new Flutter project display Cards
 
-## Getting Started
+# ScreenShot
+![Screenshot_1651833648](https://user-images.githubusercontent.com/67412924/167169313-59c65bbd-2eb7-4e6a-a760-f2c634d89363.png)
+![Screenshot_1651831120](https://user-images.githubusercontent.com/67412924/167169351-50e2dc40-e0fe-4459-9463-b15e5d065377.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
